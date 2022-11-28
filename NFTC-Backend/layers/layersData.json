@@ -1,0 +1,102 @@
+[
+    {
+        "title": "Background",
+        "imageName": "Black",
+        "rarity": 5
+    },
+    {
+        "title": "Bottom lid",
+        "imageName": "High",
+        "rarity": 80
+    },
+    {
+        "title": "Bottom lid",
+        "imageName": "Low",
+        "rarity": 40
+    },
+    {
+        "title": "Bottom lid",
+        "imageName": "Middle",
+        "rarity": 40
+    },
+    {
+        "title": "Eye color",
+        "imageName": "Cyan",
+        "rarity": 1
+    },
+    {
+        "title": "Eye color",
+        "imageName": "Green",
+        "rarity": 1
+    },
+    {
+        "title": "Eye color",
+        "imageName": "Pink",
+        "rarity": 1
+    },
+    {
+        "title": "Eye color",
+        "imageName": "Purple",
+        "rarity": 1
+    },
+    {
+        "title": "Eye color",
+        "imageName": "Red",
+        "rarity": 1
+    },
+    {
+        "title": "Eye color",
+        "imageName": "Yellow",
+        "rarity": 10
+    },
+    {
+        "title": "Eyeball",
+        "imageName": "Red",
+        "rarity": 75
+    },
+    {
+        "title": "Eyeball",
+        "imageName": "White",
+        "rarity": 50
+    },
+    {
+        "title": "Goo",
+        "imageName": "Green",
+        "rarity": 1
+    },
+    {
+        "title": "Iris",
+        "imageName": "Large",
+        "rarity": 20
+    },
+    {
+        "title": "Iris",
+        "imageName": "Medium",
+        "rarity": 20
+    },
+    {
+        "title": "Iris",
+        "imageName": "Small",
+        "rarity": 60
+    },
+    {
+        "title": "Shine",
+        "imageName": "Shapes",
+        "rarity": 100
+    },
+    {
+        "title": "Top lid",
+        "imageName": "High",
+        "rarity": 30
+    },
+    {
+        "title": "Top lid",
+        "imageName": "Low",
+        "rarity": 20
+    },
+    {
+        "title": "Top lid",
+        "imageName": "Middle",
+        "rarity": 50
+    }
+]

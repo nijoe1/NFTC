@@ -1,0 +1,188 @@
+{
+    "layers": [
+        {
+            "layer": {
+                "position": 1,
+                "title": "Background",
+                "images": [
+                    {
+                        "image": {
+                            "name": "Black",
+                            "rarity": 1
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "layer": {
+                "position": 6,
+                "title": "Bottom lid",
+                "images": [
+                    {
+                        "image": {
+                            "name": "High",
+                            "rarity": 20
+                        }
+                    },
+                    {
+                        "image": {
+                            "name": "Low",
+                            "rarity": 40
+                        }
+                    },
+                    {
+                        "image": {
+                            "name": "Middle",
+                            "rarity": 40
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "layer": {
+                "position": 3,
+                "title": "Eye color",
+                "images": [
+                    {
+                        "image": {
+                            "name": "Cyan",
+                            "rarity": 1
+                        }
+                    },
+                    {
+                        "image": {
+                            "name": "Green",
+                            "rarity": 1
+                        }
+                    },
+                    {
+                        "image": {
+                            "name": "Pink",
+                            "rarity": 1
+                        }
+                    },
+                    {
+                        "image": {
+                            "name": "Purple",
+                            "rarity": 1
+                        }
+                    },
+                    {
+                        "image": {
+                            "name": "Red",
+                            "rarity": 1
+                        }
+                    },
+                    {
+                        "image": {
+                            "name": "Yellow",
+                            "rarity": 10
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "layer": {
+                "position": 2,
+                "title": "Eyeball",
+                "images": [
+                    {
+                        "image": {
+                            "name": "Red",
+                            "rarity": 50
+                        }
+                    },
+                    {
+                        "image": {
+                            "name": "White",
+                            "rarity": 50
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "layer": {
+                "position": 8,
+                "title": "Goo",
+                "images": [
+                    {
+                        "image": {
+                            "name": "Green",
+                            "rarity": 1
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "layer": {
+                "position": 4,
+                "title": "Iris",
+                "images": [
+                    {
+                        "image": {
+                            "name": "Large",
+                            "rarity": 20
+                        }
+                    },
+                    {
+                        "image": {
+                            "name": "Medium",
+                            "rarity": 20
+                        }
+                    },
+                    {
+                        "image": {
+                            "name": "Small",
+                            "rarity": 60
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "layer": {
+                "position": 5,
+                "title": "Shine",
+                "images": [
+                    {
+                        "image": {
+                            "name": "Shapes",
+                            "rarity": 100
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "layer": {
+                "position": 7,
+                "title": "Top lid",
+                "images": [
+                    {
+                        "image": {
+                            "name": "High",
+                            "rarity": 30
+                        }
+                    },
+                    {
+                        "image": {
+                            "name": "Low",
+                            "rarity": 20
+                        }
+                    },
+                    {
+                        "image": {
+                            "name": "Middle",
+                            "rarity": 50
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
